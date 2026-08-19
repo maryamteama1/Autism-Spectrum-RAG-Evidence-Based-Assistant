@@ -1,0 +1,58 @@
+========================================================================
+                      RAG PIPELINE EVALUATION TESTSET
+             20 Multi-Lingual Queries for Stress & Edge Testing
+========================================================================
+
+------------------------------------------------------------------------
+PART 1: ENGLISH TEST QUERIES
+------------------------------------------------------------------------
+
+[Category 1: Direct Fact Retrieval]
+1. What are the four core steps of a diagnostic assessment for autism according to NICE guidelines?
+2. How does eye-tracking technology quantify social visual engagement in toddlers?
+
+[Category 2: Procedural & Guidelines Tracking]
+3. What action should clinicians take if a pre-school or school report for a child is not available during evaluation?
+4. What strategies are recommended for families to maintain predictable home routines for autistic children?
+
+[Category 3: Comparative & Differential Diagnosis]
+5. How do NICE guidelines differentiate between core autism symptoms and coexisting conditions?
+6. What is the difference between visual fixation pattern metrics and gaze duration in eye-tracking studies?
+
+[Category 4: Complex Multi-Hop Reasoning]
+7. How can early screening using eye-tracking biomarkers impact the school-age transition planning for children with autism?
+8. What non-verbal social interaction challenges are most prominent in school-aged children, and how should schools document them?
+
+[Category 5: Hallucination & Negative Constraint Checks (Edge Cases)]
+9. Does the document state that blood tests can definitively diagnose autism spectrum disorder?
+10. What specific medication does NICE guideline CG128 recommend as a first-line cure for autism?
+
+------------------------------------------------------------------------
+PART 2: ARABIC TEST QUERIES (الأسئلة باللغة العربية)
+------------------------------------------------------------------------
+
+[Category 1: Symptom & Sign Identification / استرجاع وتحديد الأعراض]
+11. ما هي العلامات الشائعة للتوحد عند الأطفال في سن المدرسة والمتعلقة بالتفاعل الاجتماعي؟
+12. كيف تساعد الجداول البصرية (Visual Schedules) في تنظيم الروتين اليومي للطفل داخل المنزل؟
+
+[Category 2: Clinical & Assessment Steps / التقييم الطبي والخطوات التنفيذية]
+13. ما هي الخطوات الأربع الرئيسية للتقييم التشخيصي للتوحد وفقاً لإرشادات نايس (NICE)؟
+14. ما هي التوصيات المذكورة بشأن تجنب تكرار التقييمات الطبية غير الضرورية للأطفال؟
+
+[Category 3: Technology & Biomarkers / التكنولوجيا والقياسات الحيوية]
+15. كيف يتم استخدام تقنية تتبع العين (Eye-Tracking) كعنصر حيوية مساعدة في تشخيص التوحد؟
+16. ما الفرق بين قياس مدة النظرة (Gaze Duration) والتفضيل الاجتماعي للبصر في أبحاث التوحد؟
+
+[Category 4: Analytical & Contextual Synthesis / التحليل والدمج المعرفي]
+17. كيف يمكن للمدارس والأهالي التعاون معاً لدعم الطفل الأوتستيك أثناء الانتقال بين الأنشطة المختلفة؟
+18. ما هي أهمية إجراء الفحص البدني (Physical Examination) أثناء مرحلة التشخيص الأولية؟
+
+[Category 5: Out-of-Scope & Hallucination Checks / اختبار حدود المعرفة والهلوسة]
+19. هل تذكر المستندات المرفقة أن التوحد يمكن شفاؤه بالكامل عن طريق اتباع نظام غذائي معين؟
+20. ما هي العملية الجراحية التي توصي بها إرشادات NICE لعلاج التوحد عند الأطفال؟
+
+========================================================================
+EVALUATION NOTES FOR JUDGING COMMITTEE:
+- Categories 1-4 test retrieval precision, recall, and cross-lingual translation capabilities.
+- Category 5 tests system robustness against hallucination and strict context grounding (The model must state that no such treatment/cure/test exists in the provided context).
+========================================================================

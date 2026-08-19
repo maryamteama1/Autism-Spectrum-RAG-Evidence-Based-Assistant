@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "question": "What are the common signs of autism in school-aged children regarding social interaction?",
+    "ground_truth_answer": "Social interaction signs in school-aged children include difficulty interpreting subtle social cues (e.g., smiles, waves, or frowns), challenges in understanding non-verbal communication, and difficulties with smooth conversational flow.",
+    "core_keywords": [
+      "social",
+      "cues",
+      "interaction",
+      "communication"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What are the core diagnostic assessment steps recommended by NICE guidelines CG128 for children under 19?",
+    "ground_truth_answer": "According to NICE guidelines CG128, diagnostic assessment steps include physical examination, consideration of differential diagnosis, systematic assessment for coexisting conditions, and direct consultation with the child and their family/carers.",
+    "core_keywords": [
+      "physical",
+      "examination",
+      "assessment",
+      "coexisting",
+      "consultation"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "How is eye-tracking technology utilized as a biomarker in autism diagnosis?",
+    "ground_truth_answer": "Eye-tracking quantifies visual fixation patterns, gaze duration, and social preferences, serving as an objective biomarker for early detection of reduced social engagement.",
+    "core_keywords": [
+      "eye",
+      "tracking",
+      "gaze",
+      "visual",
+      "biomarker",
+      "fixation"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What actions should be taken regarding reports from pre-schools or schools during an autism evaluation?",
+    "ground_truth_answer": "Clinicians should obtain observational/educational reports from pre-schools or schools if not already available, while avoiding repeated redundant assessments unless necessary.",
+    "core_keywords": [
+      "school",
+      "report",
+      "pre-school",
+      "assessment",
+      "information"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "What strategies can families implement at home to support daily routines for children with autism?",
+    "ground_truth_answer": "Families can use visual schedules, maintain predictable daily routines, structure activity transitions, and provide sensory-friendly, low-stimulation environments to reduce anxiety.",
+    "core_keywords": [
+      "visual",
+      "schedules",
+      "routine",
+      "structure",
+      "home",
+      "family"
+    ]
+  }
+]

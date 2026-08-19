@@ -1,0 +1,6 @@
+ID,Question,Precision@3,Recall
+1,What are the common signs of autism in school-aged children regarding social interaction?,1.0,1.0
+2,What are the core diagnostic assessment steps recommended by NICE guidelines CG128 for children under 19?,0.67,0.2
+3,How is eye-tracking technology utilized as a biomarker in autism diagnosis?,1.0,0.5
+4,What actions should be taken regarding reports from pre-schools or schools during an autism evaluation?,1.0,1.0
+5,What strategies can families implement at home to support daily routines for children with autism?,1.0,0.67

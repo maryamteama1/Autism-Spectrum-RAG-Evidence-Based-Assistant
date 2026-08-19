@@ -1,0 +1,20 @@
+sources:
+  - source_id: "100_day_kit"
+    title: "100 Day Tool Kit School Aged Children"
+    document_type: "family_guide"
+    file_path: "data/raw/100_Day_Tool_Kit_School_Aged_Children_0.pdf"
+
+  - source_id: "nice_cg128"
+    title: "NICE Clinical Guideline CG128"
+    document_type: "clinical_guideline"
+    file_path: "data/raw/document.pdf"
+
+  - source_id: "eye_tracking"
+    title: "Eye Tracking Biomarkers and Autism Diagnosis"
+    document_type: "research_paper"
+    file_path: "data/raw/Eye-Tracking_Biomarkers_and_Autism_Diagnosis_in_Pr.pdf"
+
+  - source_id: "identification_guide"
+    title: "Identification Evaluation and Management of Children with Autism"
+    document_type: "clinical_guide"
+    file_path: "data/raw/identificationevaluationand_managementofchildrenwithautism_spectrumdisorder.pdf"

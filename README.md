@@ -6,9 +6,8 @@ An AI-powered, evidence-based assistant designed to provide accurate, reliable, 
 
 ## 📸 System Demo & Interface
 
+<img width="1746" height="927" alt="Screenshot 2026-08-19 170906" src="https://github.com/user-attachments/assets/68e78229-da05-464e-892d-633312691607" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-08-19 153650" src="https://github.com/user-attachments/assets/123cca57-589f-4e58-a14d-ea764373dad1" />
-)
 
 ---
 

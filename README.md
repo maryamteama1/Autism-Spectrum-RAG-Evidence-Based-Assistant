@@ -6,9 +6,10 @@ An AI-powered, evidence-based assistant designed to provide accurate, reliable, 
 
 ## 📸 System Demo & Interface
 
-<img width="1920" height="1080" alt="Screenshot 2026-08-19 153801" src="https://github.com/user-attachments/assets/3eec6315-62a5-4d28-aed2-80d8d6c03c93" />
 
-![App Interface Demo](PLACEHOLDER_FOR_APP_SCREENSHOT)
+
+![App Interface Demo](<img width="1920" height="1080" alt="Screenshot 2026-08-19 153650" src="https://github.com/user-attachments/assets/123cca57-589f-4e58-a14d-ea764373dad1" />
+)
 
 ---
 
@@ -25,9 +26,9 @@ An AI-powered, evidence-based assistant designed to provide accurate, reliable, 
 
 The pipeline processes clinical literature into vector embeddings, stores them in a Vector Database, and uses contextual retrieval to prompt the LLM.
 
-<img width="1920" height="1080" alt="Screenshot 2026-08-19 153801" src="https://github.com/user-attachments/assets/040bef5c-6674-4d85-af8d-316ebb6bd7a7" />
 
-![Architecture Diagram](PLACEHOLDER_FOR_ARCHITECTURE_DIAGRAM)
+![Architecture Diagram](<img width="1920" height="1080" alt="Screenshot 2026-08-19 153801" src="https://github.com/user-attachments/assets/8104ccba-d052-40f4-be13-071b9ebb488a" />
+)
 
 ### Tech Stack
 

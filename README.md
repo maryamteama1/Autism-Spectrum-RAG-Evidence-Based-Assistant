@@ -1,7 +1,7 @@
 🧩 Autism Spectrum RAG — Evidence-Based Assistant
 
 <p align="center">
-  <img src="docs/images/ui.png" alt="Autism Spectrum RAG Assistant UI" width="900">
+  <img src="D:\autism-rag\src\docs\images\ui.png" alt="Autism Spectrum RAG Assistant UI" width="900">
 </p>
 
 <h3 align="center">

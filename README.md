@@ -1,9 +1,5 @@
 🧩 Autism Spectrum RAG — Evidence-Based Assistant
 
-<p align="center">
-  <img src="D:\autism-rag\src\docs\images\ui.png" alt="Autism Spectrum RAG Assistant UI" width="900">
-</p>
-
 <h3 align="center">
 Evidence-Based Retrieval-Augmented Generation Assistant for Autism-Related Questions
 </h3>
